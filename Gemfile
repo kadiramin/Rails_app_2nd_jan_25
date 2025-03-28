@@ -59,4 +59,4 @@ group :development do
 end
 
 
-gem "solargraph", "~> 0.50.0"
+gem "solargraph", "~> 0.53.2"
